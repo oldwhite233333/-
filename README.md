@@ -1,7 +1,10 @@
-### 刷题leetcode记录和思路，目标是在3个月内刷完200道，~~目前（2021/5/27）在leetcode已经刷完74题~~
+### 目前（2021/5/27）
+~~目标是在3个月内刷完200道~~
+~~目前（2021/5/27）在leetcode已经刷完74题~~
 ![image](https://user-images.githubusercontent.com/84114842/119762263-f3ab3400-bedf-11eb-9d8d-2227b1387749.png)
 ***
-### 目前2021/6/19 达成目标~~~ ~~下个目标是一个月内(7月份前)把剑指offer刷完~~
+### 目前2021/6/19 达成目标~~~ 
+~~下个目标是一个月内(7月份前)把剑指offer刷完~~
 > "Fun isn't something one considers when balancing the universe. But this... does put a smile on my face." -Thanos 
 
 ![image](https://user-images.githubusercontent.com/84114842/122631110-a21b5100-d0fb-11eb-8164-f2e9961ee7ce.png)
@@ -23,6 +26,10 @@
 开始下一波投递。
 ### 目前是 2021/08/06
 目前已经把名企所有题刷完
-由于hard的有点多，先改成刷完微软mid的题库
-估计9月初能刷完
+由于hard的有点多，先改成~~~刷完微软mid的题库~~~
+~~估计9月初能刷完~~
 然后开始第三轮刷题。
+### 目前是 2021/08/30
+现在是已经将mid 的复刷了一遍。除了有几道题不想写。。
+其他都刷了至少三遍以上，现在想法是将codetop 的hard tag刷完
+总共是32道题。预估九月底刷完。
